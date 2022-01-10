@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ben-patel
-- 👀 I’m interested in friends, piano, skipping, the gym, physics and software! 
+- 👀 I’m interested in friends, piano, jumprope, the gym, physics, maths and software! 
 - 🌱 I’m currently learning java data structures and algorithms.
 - 💞️ I’m looking to collaborate on getting any interesting projects done.
 - 📫 How to reach me : my email!
