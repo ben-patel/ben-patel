@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ben-patel
+- 👀 I’m interested in my friends, piano, skipping, the gym, physics and software! 
+- 🌱 I’m currently learning java data structures and algorithms.
+- 💞️ I’m looking to collaborate on getting any interesting projects done.
+- 📫 How to reach me : my email!
+
+<!---
+ben-patel/ben-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
