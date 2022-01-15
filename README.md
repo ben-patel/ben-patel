@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben-patel
 - 👀 I’m interested in friends, piano, jumprope, the gym, physics, maths and software! 
-- 🌱 I’m currently learning java data structures and algorithms.
+- 🌱 I’m currently learning web dev and java data structures and algorithms.
 - 💞️ I’m looking to collaborate any interesting projects.
 
 <!---
