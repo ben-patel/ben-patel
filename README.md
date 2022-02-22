@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ben-patel
-- 👀 I’m interested in friends, piano, jumprope, the gym, physics, maths and software! 
-- 🌱 I’m currently learning HTML/CSS and java DSA.
+- 🌱 I’m currently learning python APIs, data structures/algos and HTML/CSS.
 -  I’m looking to collaborate any interesting projects.
 
 <!---
