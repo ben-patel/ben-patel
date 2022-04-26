@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ben-patel
-- 🌱 I’m currently learning C++ APIs, data structures/algos and HTML/CSS/JavaScript.
+- 🌱 I’m currently learning C++, data structures/algos and HTML/CSS/JavaScript.
 -  I’m looking to collaborate any interesting projects.
 -  I'm a big fan of competitive programming, I'm still just a beginner but I've recently just solved over 100 questions on codeforces.
 
